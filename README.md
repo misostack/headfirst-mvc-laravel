@@ -37,3 +37,24 @@ based application. This database must capture and store all the relevant persist
 
 1. Service: mailer
 2. Ion Authentication: login,reset password
+
+
+## Funny things
+
+1. **Undefined type 'Route'.intelephense(1009)**
+
+- https://github.com/bmewburn/vscode-intelephense/issues/780
+
+```bash
+use Illuminate\Support\Facades\Route; in web.php. It works for me.
+
+```
+
+## PHP Knowledge
+
+1. CLosures
+
+- https://www.codepunker.com/blog/basic-usage-of-closures-in-php
+- https://viblo.asia/p/lambda-va-closures-trong-php-DXOGRZZnGdZ
+- https://www.php.net/manual/en/class.closure.php
+- https://www.php.net/manual/en/functions.anonymous.php
