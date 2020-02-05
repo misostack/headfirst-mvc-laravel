@@ -38,3 +38,6 @@ based application. This database must capture and store all the relevant persist
 1. Service: mailer
 2. Ion Authentication: login,reset password
 
+## Ref
+
+- Step by step notes : https://gist.github.com/misostack/21dfd8208130c0576f695664fa20c140
