@@ -15,6 +15,25 @@ based application. This database must capture and store all the relevant persist
 
 ## Todo
 
+### First step
+
 1. Install PHP lastest version
 2. Setup Empty Laravel Project
-3. Design Relational DB
+3. Setup Dev Enviroment for laravel
+4. Design Relational DB
+5. Create hello world web server
+6. Setup for deployment on Heroku
+
+### Second step
+
+1. CRUD forms
+2. Layout and templates ( bootstrap )
+3. Modified CRUD forms with new UI
+4. Simple Authentication : Login
+5. Migration : Data seed
+6. CRUD Users
+
+### Third step
+
+1. Service: mailer
+2. Ion Authentication: login,reset password
