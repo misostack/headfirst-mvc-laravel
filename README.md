@@ -67,7 +67,7 @@ use Illuminate\Support\Facades\Route; in web.php. It works for me.
 
 ## Relational Model Diagram
 
-!(Relational Model Diagram)(img1)
+![Relational Model Diagram][img1]
 
 ## Assets
 
