@@ -19,7 +19,7 @@ based application. This database must capture and store all the relevant persist
 
 1. Install PHP lastest version
 2. Setup Empty Laravel Project
-3. Setup Dev Enviroment for laravel
+3. Setup Dev Enviroment for laravel and Learn the basic elements
 4. Design Relational DB
 5. Create hello world web server
 6. Setup for deployment on Heroku
@@ -37,6 +37,11 @@ based application. This database must capture and store all the relevant persist
 
 1. Service: mailer
 2. Ion Authentication: login,reset password
+
+## Learn
+
+- Routing
+- Middleware
 
 
 ## Funny things
@@ -58,3 +63,12 @@ use Illuminate\Support\Facades\Route; in web.php. It works for me.
 - https://viblo.asia/p/lambda-va-closures-trong-php-DXOGRZZnGdZ
 - https://www.php.net/manual/en/class.closure.php
 - https://www.php.net/manual/en/functions.anonymous.php
+
+
+## Relational Model Diagram
+
+!(Relational Model Diagram)(img1)
+
+## Assets
+
+[img1]: ./images/student-grade-v1.png
