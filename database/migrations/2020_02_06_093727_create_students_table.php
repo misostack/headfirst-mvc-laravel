@@ -14,10 +14,11 @@ class CreateStudentsTable extends Migration
     public function up()
     {
         Schema::create('students', function (Blueprint $table) {
+            $genders = ['M','F'];
             $table->integerIncrements('id');
             $table->string('firstname', 20);
             $table->string('lastname', 60);
-            $table->char('gender', 1);
+            $table->enum('gender', $genders)->nullable(false);
             $table->timestamps();
         });
     }
