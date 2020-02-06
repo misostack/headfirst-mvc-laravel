@@ -43,7 +43,6 @@ based application. This database must capture and store all the relevant persist
 - Routing
 - Middleware
 
-
 ## Funny things
 
 1. **Undefined type 'Route'.intelephense(1009)**
