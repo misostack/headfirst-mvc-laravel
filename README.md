@@ -63,6 +63,9 @@ use Illuminate\Support\Facades\Route; in web.php. It works for me.
 - https://www.php.net/manual/en/class.closure.php
 - https://www.php.net/manual/en/functions.anonymous.php
 
+## Laravel basic knowledge
+
+- https://www.youtube.com/channel/UCQI-Ym2rLZx52vEoqlPQMdg
 
 ## Relational Model Diagram
 
