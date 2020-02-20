@@ -54,7 +54,27 @@ My identity can be email or phone number.
 
 ### Second step
 
-1. Design system with DDD pattern
+> ### Design system with DDD pattern
+
+**Analyzing some essential points**
+
+1. User Domains
+2. Layers
+3. Ubiquitous Language
+4. Entities and Value Objects
+5. Aggregates
+6. Services
+7. Modules
+8. Repositories
+9. Factories
+
+
+**Advanced: Domain Events**
+
+**Ref**
+
+- http://blog.sapiensworks.com/post/2012/02/10/Entities-vs-Value-Objects-by-Example.aspx
+
 
 ### Third step
 
