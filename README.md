@@ -5,13 +5,41 @@ MySQL
 
 ## Sample project
 
-> Jim is a lecturer at a community college, and he wants an application to help him to keep track of the students he is advising. He
-wants to know which students register for which courses in which semester and what grade they got in those courses. He also
-wants the application to be password protected, with each user having a different login and password, and it must keep track of user
-lo
-gins/outs.
-Your job as a database developer is to design a database that will serve as the back-end of either a web-based or client-server
-based application. This database must capture and store all the relevant persistent data that will be used by the application
+> I need an app to allow me learning engligh efficiently, it is all about memorizing. There is a method which helps you to learn fast and be able to use what you learn. It is called "spaced repetition learning". The main idea is
+
+> **You will review when you start to forget it**
+
+- Ref : https://www.youtube.com/watch?v=cVf38y07cfk
+
+> **As a user i need:**
+
+- I can register an account
+- I can logged in to system with my registered account by my identity and password.
+My identity can be email or phone number.
+- I can reset my password in case i forgot
+- I want my account is more secured by enabling 2 step auth with my phone number. If i can not auth with my phone number, i need a way to access my account settings and disabled 2 step auth
+
+> **As an english learner i need:**
+
+- I can create my word list and group them by my custom labels
+- I want to select words from the list to make a list i need to learn today
+- I want to do a test to make sure i remember the word list i've learned yesterday before i start with a new word list
+- I want to do a test every weekend or every 2 weeks to review my word list.
+- I want to know which words i need to review again
+- I want to use the words that i learned to make an essay to short topic and need to know is it correct or not
+- I want to receive the answers from someone who knows engligh and be willing to help me to correct my essay or topic
+- I want to contribute to the community by creating tests base on my word lists and share with other members.
+- I want to do multiple kind of tests: meaning, images, fill in the blank, ... with quiz
+
+> **As an owner of this service i want:**
+
+- Someone who used the system need to pay me an amount for daily/monthly/yearly
+- I want to reward for someone who contribute to the community by adding more free time for them to use the system
+- I want to introduce my system to everyone, so i need the system to allow user who registered can try the free service in a specific period of time
+
+> **As a developer of a system i need:**
+
+- To log the errors to allow me to fix if something went wrong
 
 ## Todo
 
@@ -26,12 +54,7 @@ based application. This database must capture and store all the relevant persist
 
 ### Second step
 
-1. CRUD forms
-2. Layout and templates ( bootstrap )
-3. Modified CRUD forms with new UI
-4. Simple Authentication : Login
-5. Migration : Data seed
-6. CRUD Users
+1. Design system with DDD pattern
 
 ### Third step
 
