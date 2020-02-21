@@ -56,7 +56,7 @@ My identity can be email or phone number.
 
 > ### Design system with DDD pattern
 
-**Analyzing some essential points**
+**Design system using some DDD's essential points**
 
 1. User Domains
 2. Layers
@@ -75,6 +75,10 @@ My identity can be email or phone number.
 
 - http://blog.sapiensworks.com/post/2012/02/10/Entities-vs-Value-Objects-by-Example.aspx
 
+
+### System Design
+
+- https://github.com/misostack/ezsystemdesign/blob/master/spaced-repetition-learning-app.md
 
 ### Third step
 
